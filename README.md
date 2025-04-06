@@ -19,7 +19,7 @@ Crear la lista a partir del DPI
 - Imprimir la lista en cada paso.
 
 
-#💻 Ejecución del programa
+💻 Ejecución del programa
 
 ![Image Alt](https://github.com/Ronaldher841/Listas-Enlazadas/blob/8347562af2f3c368e3d7fb7c753bdd022bc26097/Captura%20de%20pantalla%202025-04-05%20191447.png)
 
