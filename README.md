@@ -2,7 +2,8 @@
 
 Este proyecto implementa una **lista enlazada simple** en Java, manipulando datos a partir del número de DPI (documento personal de identificación). Se aplican operaciones clásicas de listas como inserción, eliminación, búsqueda, e inversión.
 
-#✅ Main.java
+✅ Main.java
+
 Ejecuta las siguientes operaciones en orden:
 
 Crear la lista a partir del DPI
