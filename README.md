@@ -26,7 +26,7 @@ Crear la lista a partir del DPI
 ## 🧱 Estructura del Proyecto
 
 ```bash
-LinkedListProject/
+Listas-Enlazadas/
 ├── Node.java           # Clase para representar un nodo individual
 ├── LinkedList.java     # Implementación de la lista enlazada simple
 ├── Main.java           # Clase principal para ejecutar las operaciones
